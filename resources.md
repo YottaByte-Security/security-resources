@@ -32,13 +32,9 @@
 
 #####Application Testing
 
-Add Veracode
+[Vericode](http://www.vericode.com)
 
-Add WhiteHat Security
-
-Add IBM
-
-Add HP
+[Whitehat Security](https://www.whitehatsec.com/)
 
 #####Email
 
