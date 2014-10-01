@@ -1,7 +1,7 @@
 #Information Security Resources
 ##Frameworks
 ###Architecture Frameworks
-[TOGAF](http://www.opengroup.org/togaf/)
+[TOGAF](http://www.opengroup.org/togaf)
 [FEA](http://www.whitehouse.gov/omb/e-gov/fea)
 ###Development Frameworks
 [Spring Security](http://projects.spring.io/spring-security/)
