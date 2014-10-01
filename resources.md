@@ -8,6 +8,16 @@
 
 [FEA](http://www.whitehouse.gov/omb/e-gov/fea)
 
+#####Compliance Frameworks
+
+[COBIT](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
+
+[FISMA](http://csrc.nist.gov/drivers/documents%/FISMA-final.pdf)
+
+[FedRamp](http://cloud.cio.gov/fedramp)
+
+[NIST Series](http://csrc.nist.gov/publications/PubsSPs.html)
+
 #####Development Frameworks
 
 [Spring Security](http://projects.spring.io/spring-security/)
