@@ -4,47 +4,47 @@
 
 ###Architecture Frameworks
 
--[TOGAF](http://www.opengroup.org/togaf)
+[TOGAF](http://www.opengroup.org/togaf)
 
--[FEA](http://www.whitehouse.gov/omb/e-gov/fea)
+[FEA](http://www.whitehouse.gov/omb/e-gov/fea)
 
 ###Development Frameworks
 
--[Spring Security](http://projects.spring.io/spring-security/)
+[Spring Security](http://projects.spring.io/spring-security/)
 
--[JAAS](http://www.oracle.com/technetwork/java/javase/jaas/index.html)
+[JAAS](http://www.oracle.com/technetwork/java/javase/jaas/index.html)
 
--[SHIRO](http://shiro.apache.org/)
+[SHIRO](http://shiro.apache.org/)
 
--[OWASP](https://www.owasp.org/index.php/Category:OWASP_Enterprise_Security_API)
+[OWASP](https://www.owasp.org/index.php/Category:OWASP_Enterprise_Security_API)
 
 ##Tools
 
 ###Application Testing
 
-- [Veracode]
+Add Veracode
 
-- [WhiteHat Security]
+Add WhiteHat Security
 
-- [IBM]
+Add IBM
 
-- [HP]
+Add HP
 
 ###Cheat Sheets
 
--[OWASP](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
+[OWASP](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
 
 ###Governance Tools
 
--[SAP](http://www.sap.com/pc/analytics/governance-risk-compliance.html)
+[SAP](http://www.sap.com/pc/analytics/governance-risk-compliance.html)
 
--[Archer](http://www.emc.com/security/rsa-archer.htm)
+[Archer](http://www.emc.com/security/rsa-archer.htm)
 
--[Modulo](http://modulo.com/)
+[Modulo](http://modulo.com/)
 
 ###Intrusion Detection Tools
 
--[Snort](www.snort.org)
+[Snort](www.snort.org)
 
 ###Log Analytics Tools
 
