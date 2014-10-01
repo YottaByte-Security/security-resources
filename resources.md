@@ -1,14 +1,14 @@
-#Information Security Resources
+###Information Security Resources
 
-##Frameworks
+####Frameworks
 
-###Architecture Frameworks
+#####Architecture Frameworks
 
 [TOGAF](http://www.opengroup.org/togaf)
 
 [FEA](http://www.whitehouse.gov/omb/e-gov/fea)
 
-###Development Frameworks
+#####Development Frameworks
 
 [Spring Security](http://projects.spring.io/spring-security/)
 
@@ -18,9 +18,9 @@
 
 [OWASP](https://www.owasp.org/index.php/Category:OWASP_Enterprise_Security_API)
 
-##Tools
+####Tools
 
-###Application Testing
+#####Application Testing
 
 Add Veracode
 
@@ -30,11 +30,11 @@ Add IBM
 
 Add HP
 
-###Cheat Sheets
+#####Cheat Sheets
 
 [OWASP](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
 
-###Governance Tools
+#####Governance Tools
 
 [SAP](http://www.sap.com/pc/analytics/governance-risk-compliance.html)
 
@@ -42,17 +42,18 @@ Add HP
 
 [Modulo](http://modulo.com/)
 
-###Intrusion Detection Tools
+#####Intrusion Detection Tools
 
 [Snort](www.snort.org)
 
-###Log Analytics Tools
+#####Log Analytics Tools
 
 [ArcSight](http://www8.hp.com/us/en/software-solutions/arcsight-esm-enterprise-security-management)
+[ArcSight SmartConnectors - Supported devices](http://h20195.www2.hp.com/V2/GetPDF.aspx/4AA5-3404ENW.pdf)
 
 [Splunk](http://www.splunk.com)
 
-####ELK stack
+######ELK stack
 
 [Elastisearch](http://www.elasticsearch.org/)
 
@@ -60,7 +61,7 @@ Add HP
 
 [Kibana](http://www.elasticsearch.org/overview/kibana/)
 
-###Penetration Testing Tools
+#####Penetration Testing Tools
 
 [nmap](www.nmap.org)
 
