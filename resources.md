@@ -30,9 +30,9 @@ Add IBM
 
 Add HP
 
-#####Cheat Sheets
+#####Email
 
-[OWASP](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
+[Proofpoint](http://essentials.proofpoint.com/)
 
 #####Governance Tools
 
@@ -71,3 +71,9 @@ Add HP
 [nmap](www.nmap.org)
 
 [Tenable](www.tenable.com)
+
+####Training
+
+[OWASP Cheat Sheet Series](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
+
+[PhishMe](https://phishme.com)
