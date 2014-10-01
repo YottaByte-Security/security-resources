@@ -48,20 +48,20 @@ Add HP
 
 ###Log Analytics Tools
 
--[ArcSight](http://www8.hp.com/us/en/software-solutions/arcsight-esm-enterprise-security-management)
+[ArcSight](http://www8.hp.com/us/en/software-solutions/arcsight-esm-enterprise-security-management)
 
--[Splunk](http://www.splunk.com)
+[Splunk](http://www.splunk.com)
 
 ####ELK stack
 
--[Elastisearch](http://www.elasticsearch.org/)
+[Elastisearch](http://www.elasticsearch.org/)
 
--[Logstash](http://logstash.net/)
+[Logstash](http://logstash.net/)
 
--[Kibana](http://www.elasticsearch.org/overview/kibana/)
+[Kibana](http://www.elasticsearch.org/overview/kibana/)
 
 ###Penetration Testing Tools
 
--[nmap](www.nmap.org)
+[nmap](www.nmap.org)
 
--[Tenable](www.tenable.com)
+[Tenable](www.tenable.com)
