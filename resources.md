@@ -1,6 +1,6 @@
 #Information Security Resources
-1.  Frameworks
-	A.  Architecture Frameworks
+1 Frameworks
+..A: Architecture Frameworks
 		http://www.opengroup.org/togaf/
 		http://www.whitehouse.gov/omb/e-gov/fea
 	B.  Development Frameworks
